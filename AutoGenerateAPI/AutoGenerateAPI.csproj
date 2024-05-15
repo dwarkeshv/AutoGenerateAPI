@@ -24,11 +24,15 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AutoGenerateAPI.Database\AutoGenerateAPI.Database.csproj" />
-    <ProjectReference Include="..\AutoGenerateAPI.Library\AutoGenerateAPI.Entity.csproj" />
+    <ProjectReference Include="..\AutoGenerateAPI.Library\AutoGenerateAPI.Entities.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="log4net.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>

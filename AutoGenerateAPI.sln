@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoGenerateAPI", "AutoGene
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoGenerateAPI.Database", "AutoGenerateAPI.Database\AutoGenerateAPI.Database.csproj", "{B820F29A-1665-4F5C-9804-7FC681F487D9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoGenerateAPI.Entity", "AutoGenerateAPI.Library\AutoGenerateAPI.Entity.csproj", "{C04FEF51-D641-45A1-84BF-0E7DD1010AF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoGenerateAPI.Entities", "AutoGenerateAPI.Library\AutoGenerateAPI.Entities.csproj", "{C04FEF51-D641-45A1-84BF-0E7DD1010AF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
